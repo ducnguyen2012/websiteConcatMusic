@@ -68,7 +68,7 @@ export function UploadPage() {
         <p>Selected files: {Array.from(selectedFiles).map(file => file.name).join(', ')}</p>
       )}
 {/*       <a href="http://ducnguyen2012.github.io/DownloadPage">WARNING: AFTER UPLOAD YOUR FILE, CLICK TO UPLOAD AND GO TO DOWNLOAD PAGE WITH THIS LINK</a> */}
-      <button onClick={navigate('/downloadPage')}>Go to downloadPage</button>
+      <button onClick={() => navigate('/downloadPage')}>Go to downloadPage</button>
     </div>
   );
 }

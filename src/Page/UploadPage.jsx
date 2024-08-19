@@ -137,7 +137,7 @@ export function UploadPage() {
       {selectedFiles.length > 0 && (
         <p>Selected files: {Array.from(selectedFiles).map(file => file.name).join(', ')}</p>
       )}
-      <a href="http://localhost:3000/DownloadPage">WARNING: AFTER UPLOAD YOUR FILE, CLICK TO UPLOAD AND GO TO DOWNLOAD PAGE WITH THIS LINK</a>
+      <a href="http://ducnguyen2012.github.io/DownloadPage">WARNING: AFTER UPLOAD YOUR FILE, CLICK TO UPLOAD AND GO TO DOWNLOAD PAGE WITH THIS LINK</a>
     </div>
   );
 }

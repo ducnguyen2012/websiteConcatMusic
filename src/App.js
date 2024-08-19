@@ -8,11 +8,11 @@ export const App = () => {
   
   return (
     <div>
-      <h1>this is github page</h1>
+      <h1>this is github page of NMD</h1>
       <header />
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<MainPage/>} />
+          <Route path="/websiteConcatMusic" element={<MainPage/>} />
           <Route path="/uploadPage" element={<UploadPage/>} />
           <Route path="/downloadPage" element={<DownloadPage />} />
         </Routes>

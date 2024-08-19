@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WebsiteForConcatmusic/static/css/main.e6c13ad2.css",
-    "main.js": "/WebsiteForConcatmusic/static/js/main.24fa596f.js",
-    "static/js/453.419a5d54.chunk.js": "/WebsiteForConcatmusic/static/js/453.419a5d54.chunk.js",
-    "index.html": "/WebsiteForConcatmusic/index.html",
-    "main.e6c13ad2.css.map": "/WebsiteForConcatmusic/static/css/main.e6c13ad2.css.map",
-    "main.24fa596f.js.map": "/WebsiteForConcatmusic/static/js/main.24fa596f.js.map",
-    "453.419a5d54.chunk.js.map": "/WebsiteForConcatmusic/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/websiteConcatMusic/static/css/main.e6c13ad2.css",
+    "main.js": "/websiteConcatMusic/static/js/main.309d79ee.js",
+    "static/js/453.419a5d54.chunk.js": "/websiteConcatMusic/static/js/453.419a5d54.chunk.js",
+    "index.html": "/websiteConcatMusic/index.html",
+    "main.e6c13ad2.css.map": "/websiteConcatMusic/static/css/main.e6c13ad2.css.map",
+    "main.309d79ee.js.map": "/websiteConcatMusic/static/js/main.309d79ee.js.map",
+    "453.419a5d54.chunk.js.map": "/websiteConcatMusic/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.24fa596f.js"
+    "static/js/main.309d79ee.js"
   ]
 }

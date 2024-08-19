@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/websiteConcatMusic/static/css/main.e6c13ad2.css",
-    "main.js": "/websiteConcatMusic/static/js/main.5b5f9c17.js",
+    "main.js": "/websiteConcatMusic/static/js/main.f456bf8e.js",
     "static/js/453.419a5d54.chunk.js": "/websiteConcatMusic/static/js/453.419a5d54.chunk.js",
     "index.html": "/websiteConcatMusic/index.html",
     "main.e6c13ad2.css.map": "/websiteConcatMusic/static/css/main.e6c13ad2.css.map",
-    "main.5b5f9c17.js.map": "/websiteConcatMusic/static/js/main.5b5f9c17.js.map",
+    "main.f456bf8e.js.map": "/websiteConcatMusic/static/js/main.f456bf8e.js.map",
     "453.419a5d54.chunk.js.map": "/websiteConcatMusic/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5b5f9c17.js"
+    "static/js/main.f456bf8e.js"
   ]
 }

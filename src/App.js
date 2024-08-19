@@ -8,6 +8,7 @@ export const App = () => {
   
   return (
     <div>
+      <h1>this is github page</h1>
       <header />
       <BrowserRouter>
         <Routes>
